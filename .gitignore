@@ -13,3 +13,4 @@
 *.onnx
 *.mlmodel
 *.jpeg
+*.pth
